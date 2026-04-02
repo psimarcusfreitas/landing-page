@@ -28,7 +28,7 @@ const Hero = () => {
             className="inline-flex items-center gap-3 gradient-green text-primary-foreground font-body font-semibold px-8 py-4 rounded-full hover:opacity-90 transition-opacity text-lg"
           >
             <MessageCircle className="w-5 h-5" />
-            AGENDAR AGORA
+            LEVE ESTE PROJETO PARA A SUA INSTITUIÇÃO
           </a>
         </div>
 
