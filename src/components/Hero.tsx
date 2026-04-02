@@ -4,7 +4,7 @@ import brunoPortrait from "@/assets/bruno-portrait.jpg";
 const Hero = () => {
   return (
     <section className="section-padding min-h-screen flex items-center relative overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-secondary/30 bg-[#473bed] text-[#9980ea] border-black" />
+      <div className="absolute inset-0 bg-gradient-to-br from-[hsl(220,25%,95%)] via-[hsl(210,30%,97%)] to-[hsl(145,40%,92%)]" />
       <div className="relative z-10 max-w-7xl mx-auto w-full grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <div className="space-y-6">
           <div className="flex items-center gap-3">
