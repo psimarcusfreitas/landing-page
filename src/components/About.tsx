@@ -1,10 +1,14 @@
-import { UserRound } from "lucide-react";
+import marcusPortrait from "@/assets/marcus-portrait.jpg";
 
 const About = () => {
   return (
     <section className="section-padding" id="sobre">
       <div className="max-w-3xl mx-auto text-center space-y-6">
-        <UserRound className="w-12 h-12 text-primary mx-auto" />
+        <img
+          src={marcusPortrait}
+          alt="Marcus Freitas - Psicólogo"
+          className="w-40 h-40 rounded-full object-cover mx-auto shadow-lg border-4 border-primary/20"
+        />
         <h2 className="font-heading text-3xl md:text-5xl font-bold text-foreground">
           Quem sou eu?
         </h2>
