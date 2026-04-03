@@ -1,5 +1,5 @@
 import { MessageCircle } from "lucide-react";
-import brunoPortrait from "@/assets/bruno-portrait.jpg";
+import marcusHero from "@/assets/marcus-hero.jpg";
 
 const Hero = () => {
   return (
@@ -36,7 +36,7 @@ const Hero = () => {
           <div className="relative">
             <div className="w-72 h-96 md:w-80 md:h-[28rem] rounded-2xl overflow-hidden border-2 border-border shadow-2xl shadow-primary/10">
               <img
-                src={brunoPortrait}
+                src={marcusHero}
                 alt="Marcus Freitas - Psicólogo"
                 width={800}
                 height={1000}
