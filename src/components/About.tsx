@@ -7,7 +7,7 @@ const About = () => {
         <img
           src={marcusPortrait}
           alt="Marcus Freitas - Psicólogo"
-          className="w-40 h-40 rounded-full object-cover mx-auto shadow-lg border-4 border-primary/20"
+          className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover object-top mx-auto shadow-lg border-4 border-primary/20"
         />
         <h2 className="font-heading text-3xl md:text-5xl font-bold text-foreground">
           Quem sou eu?
