@@ -40,7 +40,7 @@ const Hero = () => {
                 alt="Marcus Freitas - Psicólogo"
                 width={800}
                 height={1000}
-                className="w-full h-full object-cover grayscale"
+                className="w-full h-full object-cover"
               />
             </div>
           </div>
