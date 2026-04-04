@@ -17,7 +17,7 @@ const Footer = () => {
           className="inline-flex items-center gap-3 gradient-green text-primary-foreground font-body font-semibold px-8 py-4 rounded-full hover:opacity-90 transition-opacity text-lg"
         >
           <MessageCircle className="w-5 h-5" />
-          AGENDAR AGORA
+          Solicitar um orçamento
         </a>
         <p className="text-muted-foreground/50 font-body text-xs pt-8">
           © {new Date().getFullYear()} Marcus Freitas – Psicólogo. Todos os direitos reservados.
