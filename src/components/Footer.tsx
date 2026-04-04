@@ -8,7 +8,7 @@ const Footer = () => {
           Vamos construir um ambiente mais seguro juntos?
         </h2>
         <p className="text-muted-foreground font-body max-w-md mx-auto">
-          Agende sua primeira sessão e dê o primeiro passo rumo ao seu bem-estar emocional.
+          Entre em contato para entender como podemos adaptar esses conteúdos para a sua realidade.
         </p>
         <a
           href="https://wa.me/5519971655412"
