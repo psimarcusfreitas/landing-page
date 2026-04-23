@@ -9,9 +9,9 @@ const audiences = [
   },
   {
     icon: Users,
-    title: "Pais, Igrejas e Comunidade",
+    title: "Responsáveis, Igrejas e Comunidade",
     approach: "Como conversar com os filhos sobre corpo, limites e segurança; Navegação segura na internet.",
-    benefit: "Quebrar o gelo e oferecer ferramentas práticas para que os pais sejam o porto seguro de seus filhos.",
+    benefit: "Quebrar o gelo e oferecer ferramentas práticas para que os responsáveis sejam o porto seguro de seus filhos.",
   },
   {
     icon: Heart,
