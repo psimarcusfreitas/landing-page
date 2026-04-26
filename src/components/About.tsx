@@ -13,7 +13,7 @@ const About = () => {
           Quem sou eu?
         </h2>
         <p className="text-muted-foreground font-body text-lg leading-relaxed">
-          Sou psicólogo (CRP 06/225405) formado pela Universidade Federal Fluminense, Especialista em Terapia Cognitivo Comportamental e Master ESEPAS (Educação sexual, Educação Emocional e Prevenção ao Abuso Sexual), servidor público atuante na proteção social básica da assistência social. Meu trabalho é traduzir conhecimentos científicos complexos em uma linguagem acessível, lúdica para as crianças e prática para os adultos. Acredito que a informação qualificada é a maior ferramenta de proteção que podemos oferecer às novas gerações.
+          Sou psicólogo (CRP 06/225405) formado pela Universidade Federal Fluminense, Especialista em Terapia Cognitivo Comportamental e Master ESEPAS (Educação sexual, Educação Emocional e Prevenção ao Abuso Sexual) em formação, servidor público atuante na proteção social básica da assistência social. Meu trabalho é traduzir conhecimentos científicos complexos em uma linguagem acessível, lúdica para as crianças e prática para os adultos. Acredito que a informação qualificada é a maior ferramenta de proteção que podemos oferecer às novas gerações.
         </p>
       </div>
     </section>
